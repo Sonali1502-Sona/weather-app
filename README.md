@@ -15,7 +15,7 @@ https://sonali1502-sona.github.io/weather-app/
 - Humidity and wind speed
 - Responsive UI
 - Real-time API data
-<img width="2880" height="1524" alt="Screenshot 2026-05-14 113602" src="https://github.com/user-attachments/assets/ebfeeae0-1aed-4b55-b229-ab02267a0916" />
+
 
 ---
 
@@ -29,7 +29,7 @@ https://sonali1502-sona.github.io/weather-app/
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](screenshot.png)
+<img width="2880" height="1524" alt="Screenshot 2026-05-14 113602" src="https://github.com/user-attachments/assets/ebfeeae0-1aed-4b55-b229-ab02267a0916" />
 
 ---
 
